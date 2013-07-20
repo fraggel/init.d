@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">init.d</string>
+    <string name="descripcion">Esta aplicación simplemente ejecutará el contenido del directorio /system/etc/init.d/ una vez se termine el arranque de android</string>
+    <string name="error">Hs ocurrido un error en las ejecución init.d</string>
+</resources>
